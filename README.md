@@ -1,9 +1,9 @@
-# Reader Mode
+# Blur Tab
 
 ## What it does
 
-Change the currently opened tab to reader mode if available. And also some other zoom operations.
+Opens a random blur image from unsplash in a new tab. There is a nice slider to un-blur the image and see it.
 
-The popup lets the user perform various operations using the tabs API.
+
 
 

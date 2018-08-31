@@ -2,11 +2,10 @@
   "manifest_version": 2,
   "name": "Blur Tab",
   "description": "Opens a random blur image in new tab, which can be viewed.",
-  "homepage_url": "https://github.com/nabendu82/Reader-Mode",
+  "homepage_url": "https://github.com/nabendu82/Blur-tab",
   "version": "1.0",
   "icons": {
     "32": "icons/logo_32.png",
-    "48": "icons/logo_48.png",
     "64": "icons/logo_64.png"
   },
   "chrome_url_overrides" : {
